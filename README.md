@@ -11,10 +11,9 @@ Studio foto buka pada jam 09.00 - 20.00
 Target pelanggan kami seluruh masyarakat
 
 <!-- Tiga warna utama -->
-Biru
-Cream
+Biru pastel
 Putih
-Pink
+Pink pastel
 
 <!-- Tentang Pixelora -->
 Pendiri Pixelora adalah Hirono
