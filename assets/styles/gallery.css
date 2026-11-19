@@ -1,0 +1,34 @@
+.gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 18px;
+}
+
+.gallery-grid figure {
+    margin: 0;
+    background: #fff;
+    border: 1px solid var(--line);
+    border-radius: 17px;
+    padding: 9px;
+    box-shadow: 0 6px 18px #51436b10;
+    transition: 0.25s;
+    overflow: hidden;
+}
+
+.gallery-grid figure:hover {
+    transform: translateY(-5px);
+}
+
+.gallery-grid img {
+    width: 100%;
+    height: 185px;
+    border-radius: 0;
+    object-fit: cover;
+}
+
+.gallery-grid figcaption {
+    text-align: center;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 13px;
+}
