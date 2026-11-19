@@ -5,9 +5,9 @@ Nama Usaha yang kami pilih adalah Pixelora
 
 <!-- . -->
 Kontak bisa hubungi +62812345678
-Studi Foto Pixelora berada di Pontianak, jl Sutoyo
+Studi Foto Pixelora berada di Jl Sutoyo No. 123, Pontianak
 Studio foto berdiri pada tahun 2026
-Studio foto buka pada jam 09.00 - 20.00
+Studio foto buka pada jam 09.00 - 20.00 WIB
 Target pelanggan kami seluruh masyarakat
 
 <!-- Tiga warna utama -->
@@ -24,13 +24,13 @@ Paragraf pengantar :
 Selamat datang di Pixelora Studio! Kami hadir sebagai tempat untuk mengabadikan berbagai momen berharga dengan pengalaman foto yang seru dan menyenangkan. Dengan menghadirkan berbagai pilihan konsep ruangan, aksesori yang beragam dan mengikuti tren, serta sentuhan warna biru sebagai identitas khas kami, Pixelora Studio siap memberikan pengalaman berfoto yang unik dan berkesan bagi setiap pelanggan.
 
 <!-- Tugas anggota kelompok -->
-Vellycia Jeslyn :
-Fania Ozora :
+Vellycia Jeslyn : Membuat Home Page dan Contact
+Fania Ozora : Membuat About dan Gallery
 Vincent Daslim :
-Felix Jhonson :
+Felix Jhonson : Membuat halaman khusus
 
 <!-- Sumber Gambar -->
-
+Kami memilih foto dari google dan pinterest kemudian meminta ai untuk mengubah warna yang sesuai dengan warna utama yang kami pilih 
 
 <!-- Catatan Proses -->
 3 kendala dan solusi

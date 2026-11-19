@@ -1,0 +1,52 @@
+
+.contact-layout {
+    display: grid;
+    grid-template-columns: 0.9fr 1.1fr;
+    gap: 55px;
+    align-items: start;
+}
+
+.contact-info {
+    background: #fff2f7;
+    border-radius: 22px;
+    padding: 28px;
+}
+
+.contact-info p {
+    padding: 10px 0;
+    border-bottom: 1px solid #f2dce7;
+}
+
+.contact-form {
+    background: white;
+    border: 1px solid var(--line);
+    border-radius: 20px;
+    padding: 28px;
+    box-shadow: 0 8px 25px #51436b10;
+}
+
+.contact-form button {
+    margin-top: 18px;
+}
+
+.contact-info,
+.contact-form {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+/* Mengatur posisi kotak Contact */
+.page-main .contact-layout {
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 30px !important;
+    align-items: stretch;
+    width: 100%;
+}
+
+.page-main .contact-info,
+.page-main .contact-form {
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+}
