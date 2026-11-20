@@ -1,0 +1,128 @@
+
+/* HALAMAN PRODUK PIXELORA */
+
+.product-hero {
+    text-align: center;
+    padding: 55px 20px 45px;
+    background:
+        radial-gradient(circle at 95% 0%, #d9effb 0 13%, transparent 13.2%),
+        #fffafd;
+}
+
+.product-hero h1 {
+    color: #62678f;
+    font-size: 42px;
+    margin: 15px 0 10px;
+}
+
+.product-hero p {
+    max-width: 620px;
+    margin: 0 auto;
+}
+
+.product-section {
+    max-width: 1160px;
+    margin: 0 auto;
+    padding: 35px 30px 55px;
+}
+
+.product-section .page-heading {
+    margin-bottom: 30px;
+}
+
+.product-container {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 24px;
+}
+
+.product-card {
+    overflow: hidden;
+    background: #fff;
+    border: 1px solid var(--line);
+    border-radius: 18px;
+    box-shadow: 0 7px 20px #51436b0c;
+    transition: transform .25s, box-shadow .25s;
+}
+
+.product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 25px #51436b18;
+}
+
+.product-card img {
+    width: 100%;
+    height: 230px;
+    object-fit: cover;
+    border-radius: 0;
+}
+
+.product-info {
+    padding: 20px 22px 24px;
+    text-align: center;
+}
+
+.product-info h3 {
+    color: var(--ink);
+    font-size: 22px;
+    margin: 0 0 8px;
+}
+
+.product-info p {
+    min-height: 52px;
+    margin: 0 0 18px;
+    font-size: 14px;
+}
+
+.product-button,
+.price-button {
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 26px;
+    background: var(--pink);
+    color: white;
+    font-size: 13px;
+    font-weight: 600;
+    transition: .25s;
+}
+
+.product-button:hover,
+.price-button:hover {
+    background: #df8eae;
+    transform: translateY(-2px);
+}
+
+.product-contact {
+    text-align: center;
+    padding: 42px 20px;
+    margin: 0 5.5% 45px;
+    border-radius: 20px;
+    background: #eaf4fb;
+}
+
+.product-contact h2 {
+    margin-bottom: 10px;
+}
+
+.product-contact p {
+    margin: 0 auto 18px;
+    max-width: 600px;
+}
+
+@media (max-width: 700px) {
+    .product-hero h1 {
+        font-size: 32px;
+    }
+
+    .product-container {
+        grid-template-columns: 1fr;
+    }
+
+    .product-section {
+        padding: 25px 20px 40px;
+    }
+
+    .product-card img {
+        height: 210px;
+    }
+}

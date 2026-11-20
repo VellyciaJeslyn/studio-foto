@@ -1,0 +1,87 @@
+
+/* HALAMAN PILIHAN PAKET PIXELORA */
+
+.pricing-main {
+    padding-top: 45px;
+}
+
+.pricing-main .page-heading {
+    margin-bottom: 32px;
+}
+
+.pricing-main .page-heading h1 {
+    color: #62678f;
+}
+
+.category-section {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.category-section h2 {
+    color: var(--ink);
+    margin-bottom: 8px;
+}
+
+.section-description {
+    margin: 0 auto 30px;
+    max-width: 650px;
+}
+
+.category-container {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 22px;
+}
+
+.category-card {
+    padding: 28px 24px;
+    background: white;
+    border: 1px solid var(--line);
+    border-radius: 18px;
+    box-shadow: 0 7px 20px #51436b0c;
+    transition: transform .25s, box-shadow .25s;
+}
+
+.category-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 25px #51436b18;
+}
+
+.category-card h3 {
+    color: var(--ink);
+    font-size: 22px;
+    margin: 0 0 8px;
+}
+
+.category-card p {
+    min-height: 48px;
+    margin: 0 0 18px;
+    font-size: 14px;
+}
+
+.price-button {
+    display: inline-block;
+    background: var(--pink);
+    color: white;
+    padding: 10px 21px;
+    border-radius: 25px;
+    font-size: 13px;
+    font-weight: 600;
+    transition: .25s;
+}
+
+.price-button:hover {
+    background: #df8eae;
+    transform: translateY(-2px);
+}
+
+@media (max-width: 700px) {
+    .category-container {
+        grid-template-columns: 1fr;
+    }
+
+    .pricing-main {
+        padding: 35px 20px 15px;
+    }
+}
