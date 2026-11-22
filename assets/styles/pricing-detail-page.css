@@ -1,0 +1,48 @@
+/* Pricing detail page */
+
+.detail-header,
+.detail-section {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 40px 30px 0;
+    text-align: center;
+}
+
+.package-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 22px;
+    margin: 30px 0;
+}
+
+.package-card {
+    padding: 28px 24px;
+    background: white;
+    border: 1px solid var(--line);
+    border-radius: 18px;
+    transition: transform 0.25s;
+}
+
+.package-card:hover {
+    transform: translateY(-5px);
+}
+
+.package-card.featured {
+    background: var(--pink-light);
+    border: 2px solid var(--pink);
+}
+
+.price {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.package-card ul {
+    padding: 0;
+    list-style: none;
+}
+
+.package-card li {
+    padding: 8px 0;
+    border-top: 1px solid var(--line);
+}
