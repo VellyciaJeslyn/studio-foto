@@ -1,4 +1,8 @@
-
+.brand-logo {
+    height: 56px;
+    width: auto;
+    display: block;
+}
 
 .hero {
     min-height: 480px;

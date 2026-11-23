@@ -1,6 +1,12 @@
 
 /* HALAMAN PRODUK PIXELORA */
 
+.brand-logo {
+    height: 56px;
+    width: auto;
+    display: block;
+}
+
 .product-hero {
     text-align: center;
     padding: 55px 20px 45px;

@@ -1,5 +1,10 @@
 
 /* HALAMAN PILIHAN PAKET PIXELORA */
+.brand-logo {
+    height: 56px;
+    width: auto;
+    display: block;
+}
 
 .pricing-main {
     padding-top: 45px;

@@ -46,14 +46,6 @@ a {
     line-height: 1;
 }
 
-.brand-icon {
-    font-family: Arial;
-    font-size: 36px;
-    color: #6a83bd;
-    border: 2px solid #6a83bd;
-    border-radius: 12px;
-    padding: 0 5px;
-}
 
 .brand small {
     display: block;
