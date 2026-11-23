@@ -18,7 +18,7 @@
 .package-card {
     padding: 28px 24px;
     background: white;
-    border: 1px solid var(--line);
+    border: 1px solid ;
     border-radius: 18px;
     transition: transform 0.25s;
 }
@@ -28,8 +28,8 @@
 }
 
 .package-card.featured {
-    background: var(--pink-light);
-    border: 2px solid var(--pink);
+    background: #ffdbf2;
+    border: 2px solid #e097cf;
 }
 
 .price {
@@ -44,5 +44,5 @@
 
 .package-card li {
     padding: 8px 0;
-    border-top: 1px solid var(--line);
+    border-top: 1px solid white;
 }
