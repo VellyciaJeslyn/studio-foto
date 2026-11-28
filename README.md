@@ -15,6 +15,8 @@ Biru pastel
 Putih
 Pink pastel
 
+Kami memilih untuk membawa warna yang cerah, bersih, ceria, dan ramah untuk menghadirkan atmosfer santai dalam berpose. Sehingga, pelanggan bisa lebih lepas, natural, dan penuh tawa sambil mengabadikan momen bersama orang terdekat di ruang yang bersih.
+
 <!-- Tentang Pixelora -->
 Pendiri Pixelora adalah Hirono
 
@@ -24,7 +26,7 @@ Selamat datang di Pixelora Studio! Kami hadir sebagai tempat untuk mengabadikan 
 
 <!-- Tugas anggota kelompok -->
 Vellycia Jeslyn : Membuat halaman Home Page dan Contact
-Fania Ozora : Membuat halaman khusus 
+Fania Ozora : Membuat halaman html pricing-graduation dan pricing-product
 Vincent Daslim : Membuat halaman pricing dan products
 Felix Jhonson : Membuat halaman khusus
 
@@ -32,7 +34,8 @@ Felix Jhonson : Membuat halaman khusus
 Kami memilih foto dari google dan pinterest kemudian meminta ai untuk mengubah warna yang sesuai dengan warna utama yang kami pilih 
 
 <!-- Catatan Proses -->
-3 kendala dan solusi
+3 kendala dan 
+1. Awalnya ada terjadi error pada logo yang ditempatkan di halaman index, tidak muncul pada website dan tidak mengarah pada logo yang ada di images. Setelah di eksplorasi ternyata ada kesalahan dalam penggunaan tanda simbol dan peletakannya.
 
 <!-- Refleksi setiap anggota -->
 
