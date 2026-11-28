@@ -26,7 +26,7 @@ Selamat datang di Pixelora Studio! Kami hadir sebagai tempat untuk mengabadikan 
 
 <!-- Tugas anggota kelompok -->
 Vellycia Jeslyn : Membuat halaman Home Page dan Contact
-Fania Ozora : Membuat halaman html pricing-graduation dan pricing-product
+Fania Ozora : Membuat halaman html pricing-graduation dan pricing-product dan menambahkan logo di setiap halaman website.
 Vincent Daslim : Membuat halaman pricing dan products
 Felix Jhonson : Membuat halaman khusus
 
@@ -38,4 +38,6 @@ Kami memilih foto dari google dan pinterest kemudian meminta ai untuk mengubah w
 1. Awalnya ada terjadi error pada logo yang ditempatkan di halaman index, tidak muncul pada website dan tidak mengarah pada logo yang ada di images. Setelah di eksplorasi ternyata ada kesalahan dalam penggunaan tanda simbol dan peletakannya.
 
 <!-- Refleksi setiap anggota -->
+Fania Ozora:
+Selama proses pengerjaan tugas membuat website usaha Photoshop ini saya pelajari bahwa berkolaborasi dan bekerja sama bisa dilakukan dengan GitHub walaupun bagian yang sulit adalah ketika push yang dilakukan ternyata gagal atau mengalami kesalahan serta mengalami situasi yang bikin bingung seperti link antar halaman rusak setelah nama file diganti, tetapi hal ini diatasi dengan melihat kesalahan mulai dari bagian mana dan memperbaiki nya dengan bantuan teman dan dari bertanya ke internet (Google). Saya belajar bahwa nama file, link, dan class harus selalu konsisten supaya halaman-halaman bisa tampil dengan benar. Saya juga belajar membuat styling kartu paket dengan CSS Grid lagi untuk menyusun elemen dan baris, serta bekerja lewat branch dan pull request supaya pekerjaan kelompok tidak saling menimpa.
 
